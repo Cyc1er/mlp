@@ -2,7 +2,7 @@ server:
   port: 40014
 
 
-testValue: "dev -->> test ok\n"
+testValue: "dev -->> test ok -->> double check\n"
   
 
 logging.file: /tmp/log/${spring.application.name}-dev.log 
