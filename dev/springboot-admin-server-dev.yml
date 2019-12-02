@@ -1,5 +1,5 @@
 server:
-  port: 40004
+  port: 40014
 
 
 testValue: "dev -->> test ok\n"
